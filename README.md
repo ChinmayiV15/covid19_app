@@ -1,25 +1,3 @@
-![covid19-tracker](https://github.com/adityanjr/covid19-tracker/blob/master/assets/screenshot/main.png)
-
-## Installation
-
-- Download apk [here](https://github.com/adityanjr/covid19-tracker/releases/download/v1.1.0/app-release.apk)
-- Get on Github [Releases](https://github.com/adityanjr/covid19-tracker/releases/tag/v1.1.0), or
-- Build on your own:
-
-```
-git clone https://github.com/adityanjr/covid19-tracker.git
-flutter pub get
-flutter run
-
-```
-## Web Build
-
-repo :
-```
-https://github.com/adityanjr/covid-tracker-web
-```
-live : 
-[https://adityanjr.github.io/covid-tracker-web/#/](https://adityanjr.github.io/covid-tracker-web/#/)
 
 ## Features
 
@@ -67,5 +45,3 @@ live :
 |        [**flutter_phoenix**](https://pub.dev/packages/flutter_phoenix)        |     Reload App     |
 
 ## Thank You
-
-Open Sourced on Github. &nbsp; &nbsp; &nbsp; &nbsp; [![Follow](https://img.shields.io/github/followers/adityanjr?label=Follow&style=social)](https://github.com/adityanjr)
